@@ -11,14 +11,3 @@ I am currently working as Incident Responder and Reverse Engineer.<br>I am also 
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://twitter.com/fatihbeyexe)
 
 
-# 📊 GitHub Stats 📊
-![](https://github-readme-stats.vercel.app/api?username=fatihbeyexe&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fatihbeyexe&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihbeyexe&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=fatihbeyexe&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-
-
